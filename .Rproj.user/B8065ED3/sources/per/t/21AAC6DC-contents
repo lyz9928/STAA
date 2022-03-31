@@ -1,0 +1,10 @@
+Package: STAA
+Type: Package
+Title: Survival Threshold Analysis
+Version: 0.1.0
+Author: Hoyd Rebecca, YunZhou Liu
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: perform survival analysis on multiple threshold and save p-value and its corresponding threshold. The output file can be plotted in various way to help choosing threshold for survival analysis
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true

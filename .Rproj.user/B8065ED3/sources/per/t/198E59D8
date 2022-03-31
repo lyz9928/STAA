@@ -1,0 +1,26 @@
+{
+    "id": "198E59D8",
+    "path": "C:/Users/Leste/Desktop/Dan Lab/2022/exosarc/STAA/R/survivalByQuantile.R",
+    "project_path": "R/survivalByQuantile.R",
+    "type": "r_source",
+    "hash": "3513849609",
+    "contents": "",
+    "dirty": false,
+    "created": 1648131976683.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "24,19",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1648129012,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1648129012,
+    "read_only": false,
+    "read_only_alternatives": []
+}
